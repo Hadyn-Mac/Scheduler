@@ -1,0 +1,19 @@
+What is quantum? (Default is 2)
+2
+A has arrived at 0
+B has arrived at 3
+B preempts A at 3
+C has arrived at 4
+D has arrived at 5
+B has finished at 6
+C preempts B at 6
+C has finished at 14
+A preempts C at 14
+A has finished at 19
+D preempts A at 19
+D has finished at 21
+The turn around of B is 3
+The turn around of C is 10
+The turn around of A is 19
+The turn around of D is 16
+Average turn around is 12
